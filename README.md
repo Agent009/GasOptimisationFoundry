@@ -11,7 +11,7 @@
 Open WSL terminal.
 
 ```bash
-cd /mnt/c/path/to/project/dir
+cd /mnt/c/Development/Training/Encode/Advanced_Solidity_BC_2025_Q1/Projects/GasOptimisationFoundry
 forge --version
 sol2uml storage ./src -c GasContract
 ```
